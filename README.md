@@ -54,6 +54,7 @@ Assets
  * [Font Awesome](http://fontawesome.io/) - awesome library of icons
  * [Flaticon](http://www.flaticon.com/) - huge collection of free icons: PNG, SVG, EPS, PSD formats
  * [Ionic Icons](http://ionicons.com/) - clean, ionic icons
+ * [The Noun Project](https://thenounproject.com/) - another plethora of great icons
 
 
 ### Fonts
