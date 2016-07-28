@@ -1,7 +1,7 @@
 Developer's Codex
 ===================
 
-A web developer / designer's life can be difficult.  It's hard to find the right tools, images ...etc for a project.  I hope this collection of links will help make things a little bit easier for you.
+A web developer / designer's life can be difficult.  It's hard to find the right tools, images, tutorials...etc.  I hope this collection of links will help make things a little bit easier for you.
 
  > “The three great essentials to achieve anything worth while are: Hard work, Stick-to-itiveness, and Common sense.” - Thomas A. Edison
 
@@ -107,12 +107,23 @@ Collaborate
 
 Great Reading Material
 ----------------------
+*Great reading resources to keep up with the latest trends/news*
 
 * [A List Apart](http://alistapart.com/) - insightful and informative dev articles
 * [Medium](https://medium.com/) - a blog platform with every topic imaginable. To refine your search, just type in your query into the search bar
 * [CSS Tricks](https://css-tricks.com/) - a great blog/tutorial for just about anything code related.
 * [Smashing Magazine](https://www.smashingmagazine.com/) - site filled with useful dev and design articles
 * [Front End Developer Weekly](http://frontenddevweekly.com/) - front-end dev news, tools ..etc emailed to you weekly
+
+
+
+Tutorials and Courses
+---------------------
+*Tutorials and courses to help learn/re-learn a technology*
+
+*Note:* The tutorials and courses for each languages are contained in their own separate sections.  I hope this prevents too much bloat on one page.
+
+* [JavaScript](https://github.com/vinnyA3/devs-codex/) - JavaScript tutorials and courses
 
 
 
