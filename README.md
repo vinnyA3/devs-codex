@@ -25,6 +25,7 @@ Inspiration
  * [CSS Winner](http://www.csswinner.com/) - list of reviewed designs
  * [Site Inspire](https://www.siteinspire.com/) - site of fresh sites
  * [OnePageLove](https://onepagelove.com/) - Great designs for one page websites
+ * [CSS Design Awards](http://www.cssdesignawards.com/) - beautiful site in and of itself. this site contains a list of award-worthy designs as well as a site-of-the-day.
 
 
 #### Code Snippets
@@ -102,10 +103,10 @@ Collaborate
 Great Reading Material
 ----------------------
 
-* [A List Apart](http://alistapart.com/)
+* [A List Apart](http://alistapart.com/) - insightful and informative dev articles
 * [Medium](https://medium.com/) - a blog platform with every topic imaginable. To refine your search, just type in your query into the search bar
 * [CSS Tricks](https://css-tricks.com/) - a great blog/tutorial for just about anything code related.
-* [Smashing Magazine](https://www.smashingmagazine.com/)
+* [Smashing Magazine](https://www.smashingmagazine.com/) - site filled with useful dev and design articles
 * [Front End Developer Weekly](http://frontenddevweekly.com/) - front-end dev news, tools ..etc emailed to you weekly
 
 
