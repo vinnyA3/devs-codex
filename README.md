@@ -10,12 +10,22 @@ A web developer / designer's life can be difficult.  At times, it's hard to find
 Inspiration
 -----------
 
-* Websites to give some ideas / inspiration
+### Websites to give some ideas / inspiration
  * [AWWWARDS](http://www.awwwards.com/) - collection of great sites
  * [HTTPster](http://httpster.net/) - another collection of great sites
  * [TheBestDesigns](https://www.thebestdesigns.com/) - showcase of beautiful sites
  * [CSSWinner](http://www.csswinner.com/) - list of reviewed designs
+ * [SiteInspire](https://www.siteinspire.com/) - site of fresh sites
  * [OnePageLove](https://onepagelove.com/) - Great designs for one page websites
+
+
+### Snippets
+ * [CodePen](http://codepen.io/)
+ * [CodeMyUI](https://codemyui.com/) - code snippets + tutorials!
+ * [CodyHouse](https://codyhouse.co/) - HTML, CSS, JS nuggets 
+ * [CodePad.Co](https://codepad.co/) - a place for developers to share & save code snippets
+
+
 
 
 Tools
