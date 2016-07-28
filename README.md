@@ -1,4 +1,4 @@
-Developer's Delight
+Developer's Codex
 ===================
 
 A web developer / designer's life can be difficult.  It's hard to find the right tools, images ...etc for a project.  I hope this collection of links will help make things a little bit easier for you.
