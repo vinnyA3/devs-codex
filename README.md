@@ -26,6 +26,7 @@ Inspiration
  * [Site Inspire](https://www.siteinspire.com/) - site of fresh sites
  * [OnePageLove](https://onepagelove.com/) - Great designs for one page websites
  * [CSS Design Awards](http://www.cssdesignawards.com/) - beautiful site in and of itself. this site contains a list of award-worthy designs as well as a site-of-the-day.
+ * [Dribble](https://dribbble.com/) - a place for designers to show off their work
 
 
 #### Code Snippets
@@ -40,7 +41,7 @@ Assets
 ------
 *Collection of images, icons, fonts ..etc to really make your sites pop*
 
-### Images
+#### Images
  * [Picjumbo](https://picjumbo.com/) - free stock photos
  * [Unsplash](http://unsplash.com/) - more free stock photos!
  * [New Old Stock](http://nos.twnsnd.co/) - free vintage photos - lots of sepia
@@ -50,14 +51,14 @@ Assets
  * [Placehold](http://placehold.it/) - generate placeholder images for your site
 
 
-### Icons
+#### Icons
  * [Font Awesome](http://fontawesome.io/) - awesome library of icons
  * [Flaticon](http://www.flaticon.com/) - huge collection of free icons: PNG, SVG, EPS, PSD formats
  * [Ionic Icons](http://ionicons.com/) - clean, ionic icons
  * [The Noun Project](https://thenounproject.com/) - another plethora of great icons
 
 
-### Fonts
+#### Fonts
  * [Google Fonts](https://www.google.com/fonts) - probably the most popular place to find fonts
    * Google fonts now has a newer, cleaner UI for their font library: [google fonts 2.0](https://fonts.google.com/)
 
@@ -67,13 +68,14 @@ Tools
 -----
 *Useful tools to aid in development*
 
-### Tools for color
+#### Tools for color
  * [ColorPicker](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en) - a very handy chrome extension for grabbing colors on a page
  * [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) - another handy color tool (avaiable for firefox too)
  * [CSS3Gen](http://css3gen.com/gradient-generator/) - an excellent, easy to use gradient generator
+ * [Spectral](http://jxnblk.com/Spectral/) - create a color swatch
 
 
-### Tools for front end scaffolding / 'bootstrapping'
+#### Tools for front end scaffolding / 'bootstrapping'
  * [Bootstrap](http://getbootstrap.com/) - popular framework for designing responsive sites and applications
   * [Bootswatch](https://bootswatch.com/) - nice themes to spice up bootstrap's look  
   * [StartBootstrap](http://startbootstrap.com/) - free open-source bootstrap themes
@@ -83,10 +85,11 @@ Tools
  * [FlatUI](http://designmodo.github.io/Flat-UI/) - a very sexy HTML and CSS framework for a flat design
 
 
-### Build tools - to make your life easier
+#### Workflow and build tools - to make your life easier
  * [Glup](http://gulpjs.com/) - a task runner to automate those tedious, repetitive tasks
  * [Grunt](http://gruntjs.com/) - another popular task runner
  * [Webpack](https://webpack.github.io/) - a modular bundler for bundling code into convenient chunks
+ * [Yeoman](http://yeoman.io/) - a scaffolding tool for building modern web apps
 
 
 
