@@ -1,9 +1,17 @@
 Developer's Delight
 ===================
 
-A web developer / designer's life can be difficult.  At times, it's hard to find the right tool for a project; at others, it's hard to find some inspiration.  Whatever problems you may face.  Whatever project you plan on tackling, I hope you find all that you need here.
+A web developer / designer's life can be difficult.  It's hard to find the right tools, images ...etc for a project.  I hope this collection of links will help make things a little bit easier for you.
 
- > “Nothing in the world is worth having or worth doing unless it means effort, pain, difficulty… I have never in my life envied a human being who led an easy life. I have envied a great many people who led difficult lives and led them well.” - Theodore Roosevelt
+ > “The three great essentials to achieve anything worth while are: Hard work, Stick-to-itiveness, and Common sense.” - Thomas A. Edison
+
+
+
+Contribute
+----------
+
+Have a helpful link to share?  Send a pull request!
+
 
 
 Inspiration
@@ -24,6 +32,7 @@ Inspiration
  * [CodeMyUI](https://codemyui.com/) - code snippets + tutorials!
  * [CodyHouse](https://codyhouse.co/) - HTML, CSS, JS nuggets
  * [CodePad.Co](https://codepad.co/) - a place for developers to share & save code snippets
+
 
 
 Assets
@@ -50,6 +59,8 @@ Assets
  * [Google Fonts](https://www.google.com/fonts) - probably the most popular place to find fonts
    * Google fonts now has a newer, cleaner UI for their font library: [google fonts 2.0](https://fonts.google.com/)
 
+
+
 Tools
 -----
 *Useful tools to aid in development*
@@ -59,6 +70,7 @@ Tools
  * [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) - another handy color tool (avaiable for firefox too)
  * [CSS3Gen](http://css3gen.com/gradient-generator/) - an excellent, easy to use gradient generator
 
+
 ### Tools for front end scaffolding / 'bootstrapping'
  * [Bootstrap](http://getbootstrap.com/) - popular framework for designing responsive sites and applications
  * [Foundation](http://foundation.zurb.com/) - another popular framework for web development
@@ -66,10 +78,12 @@ Tools
  * [Unsemantic](http://unsemantic.com/) - a simple, fluid-grid system
  * [FlatUI](http://designmodo.github.io/Flat-UI/) - a very sexy HTML and CSS framework for a flat design
 
+
 ### Build tools - to make your life easier
  * [Glup](http://gulpjs.com/) - a task runner to automate those tedious, repetitive tasks
  * [Grunt](http://gruntjs.com/) - another popular task runner
  * [Webpack](https://webpack.github.io/) - a modular bundler for bundling code into convenient chunks
+
 
 
 Collaborate
@@ -83,6 +97,7 @@ Collaborate
 * [Slack](https://slack.com/) - collaborators need to communicate fast. slack seems to be the most popular chatting app amongst dev teams
 
 
+
 Great Reading Material
 ----------------------
 
@@ -93,15 +108,10 @@ Great Reading Material
 * [Front End Developer Weekly](http://frontenddevweekly.com/) - front-end dev news, tools ..etc emailed to you weekly
 
 
-Contribute to this project!
----------------------------
-
-Want to share a helpful link? Send a pull request!
-
 
 License
 -------
 
- ![CO Logo](http://i.creativecommons.org/p/zero/1.0/88x31.png)
+![CO Logo](http://i.creativecommons.org/p/zero/1.0/88x31.png)
 
- I, [Vinny Aceto](https://github.com/vinnya3), waive all copyrighted and related right to this project
+I, [Vinny Aceto](https://github.com/vinnya3), waive all copyright-protected and related interests included in this project
