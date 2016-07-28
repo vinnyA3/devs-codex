@@ -11,11 +11,12 @@ Inspiration
 -----------
 
 * Websites to give some ideas / inspiration
- * [AWWWARDS]()
- * [HTTPster]()
- * [TheBestDesigns]()
- * [CSSWinner]()
- * [OnePageLove]()
+ * [AWWWARDS](http://www.awwwards.com/) - collection of great sites
+ * [HTTPster](http://httpster.net/) - another collection of great sites
+ * [TheBestDesigns](https://www.thebestdesigns.com/) - showcase of beautiful sites
+ * [CSSWinner](http://www.csswinner.com/) - list of reviewed designs
+ * [OnePageLove](https://onepagelove.com/) - Great designs for one page websites
+
 
 Tools
 
