@@ -25,11 +25,12 @@ Inspiration
  * [CodePad.Co](https://codepad.co/) - a place for developers to share & save code snippets
 
 
-
-
 Tools
+-----
 
--color
+### Tools for color
+ * [ColorPicker](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en) - a very handy chrome extension for grabbing colors on a page
+ * [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) - another handy color tool (avaiable for firefox too)
 
 -ftp
 
