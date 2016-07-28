@@ -10,7 +10,7 @@ A web developer / designer's life can be difficult.  It's hard to find the right
 Contribute
 ----------
 
-Have a helpful link to share?  Send a pull request!
+Have a helpful link to share?  Suggestions? See any mistakes or a broken link? Send a pull request!
 
 
 
