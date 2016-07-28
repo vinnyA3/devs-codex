@@ -8,10 +8,14 @@ A web developer / designer's life can be difficult.  At times, it's hard to find
 -Theodore Roosevelt  
 
 Inspiration
+-----------
 
-- collection of websites
-
-- code snippets
+* Websites to give some ideas / inspiration
+ * [AWWWARDS]()
+ * [HTTPster]()
+ * [TheBestDesigns]()
+ * [CSSWinner]()
+ * [OnePageLove]()
 
 Tools
 
