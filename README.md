@@ -123,7 +123,7 @@ Tutorials and Courses
 
 *Note:* The tutorials and courses for each languages are contained in their own separate sections.  I hope this prevents too much bloat on one page.
 
-* [JavaScript](https://github.com/vinnyA3/devs-codex/JAVASCRIPT_TUTS.md) - JavaScript tutorials and courses
+* [JavaScript](./JAVASCRIPT_TUTS.md) - JavaScript tutorials and courses
 
 
 
