@@ -48,6 +48,8 @@ Assets
  * [Subtle Patterns](http://subtlepatterns.com/) - site of free, subtle backgrounds
  * [Death To Stock Photos](http://join.deathtothestockphoto.com/) - monthly photos emailed to you
  * [Placehold](http://placehold.it/) - generate placeholder images for your site
+ * [WOCinTech Chat](http://www.wocintechchat.com/) - free stock photos representing women and non-binary people of color
+ * [placekitten](https://placekitten.com/) - kitten-themed placeholder images for developers
 
 
 ### Icons
