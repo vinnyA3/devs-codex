@@ -87,6 +87,7 @@ Tools
  * [Skeleton](http://getskeleton.com/) - A clean, bareboned (pun intended), responsive css boilerplate
  * [Unsemantic](http://unsemantic.com/) - a simple, fluid-grid system
  * [FlatUI](http://designmodo.github.io/Flat-UI/) - a very sexy HTML and CSS framework for a flat design
+ * [Materialize](http://materializecss.com/) - a modern front-end framework inspired by Google's Material design
 
 
 #### Workflow and build tools - to make your life easier
