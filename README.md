@@ -84,10 +84,11 @@ Tools
   * [StartBootstrap](http://startbootstrap.com/) - free open-source bootstrap themes
  * [Foundation](http://foundation.zurb.com/) - another popular framework for web development
  * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
- * [Skeleton](http://getskeleton.com/) - A clean, bareboned (pun intended), responsive css boilerplate
+ * [Skeleton](http://getskeleton.com/) - a clean, bareboned (pun intended), responsive css boilerplate
  * [Unsemantic](http://unsemantic.com/) - a simple, fluid-grid system
  * [FlatUI](http://designmodo.github.io/Flat-UI/) - a very sexy HTML and CSS framework for a flat design
  * [Materialize](http://materializecss.com/) - a modern front-end framework inspired by Google's Material design
+ * [Tachyons](http://tachyons.io/) - create fast, 100% responsive apps with very little CSS 
 
 
 #### Workflow and build tools - to make your life easier
