@@ -92,7 +92,7 @@ Tools
 
 
 #### Workflow and build tools - to make your life easier
- * [Glup](http://gulpjs.com/) - a task runner to automate those tedious, repetitive tasks
+ * [Gulp](http://gulpjs.com/) - a task runner to automate those tedious, repetitive tasks
  * [Grunt](http://gruntjs.com/) - another popular task runner
  * [Webpack](https://webpack.github.io/) - a modular bundler for bundling code into convenient chunks
  * [Yeoman](http://yeoman.io/) - a scaffolding tool for building modern web apps
