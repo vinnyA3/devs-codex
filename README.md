@@ -122,17 +122,6 @@ Great Reading Material
 * [Front End Developer Weekly](http://frontenddevweekly.com/) - front-end dev news, tools ..etc emailed to you weekly
 
 
-
-Tutorials and Courses
----------------------
-*Tutorials and courses to help learn/re-learn a technology*
-
-*Note:* The tutorials and courses for each languages are contained in their own separate sections.  I hope this prevents too much bloat on one page.
-
-* [JavaScript](./JAVASCRIPT_TUTS.md) - JavaScript tutorials and courses
-
-
-
 License
 -------
 
