@@ -80,8 +80,8 @@ Tools
 
 #### Tools for front end scaffolding / 'bootstrapping'
  * [Bootstrap](http://getbootstrap.com/) - popular framework for designing responsive sites and applications
-  * [Bootswatch](https://bootswatch.com/) - nice themes to spice up bootstrap's look  
-  * [StartBootstrap](http://startbootstrap.com/) - free open-source bootstrap themes
+ * [Bootswatch](https://bootswatch.com/) - nice themes to spice up bootstrap's look  
+ * [StartBootstrap](http://startbootstrap.com/) - free open-source bootstrap themes
  * [Foundation](http://foundation.zurb.com/) - another popular framework for web development
  * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
  * [Skeleton](http://getskeleton.com/) - a clean, bareboned (pun intended), responsive css boilerplate
