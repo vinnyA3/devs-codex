@@ -88,7 +88,8 @@ Tools
  * [Unsemantic](http://unsemantic.com/) - a simple, fluid-grid system
  * [FlatUI](http://designmodo.github.io/Flat-UI/) - a very sexy HTML and CSS framework for a flat design
  * [Materialize](http://materializecss.com/) - a modern front-end framework inspired by Google's Material design
- * [Tachyons](http://tachyons.io/) - create fast, 100% responsive apps with very little CSS 
+ * [Tachyons](http://tachyons.io/) - create fast, 100% responsive apps with very little CSS
+ * [Colormind](http://colormind.io/bootstrap/) - generate a color pallete for your project using ML - very cool
 
 
 #### Workflow and build tools - to make your life easier
