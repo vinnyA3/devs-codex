@@ -59,7 +59,7 @@ Assets
  * [Ionic Icons](http://ionicons.com/) - clean, ionic icons
  * [Simple Icons](https://simpleicons.org/) - svg icons for popular brands. Maintained by Dan Leech.
  * [The Noun Project](https://thenounproject.com/) - another plethora of great icons
-
+ * [Feather Icons](https://feathericons.com/) - open-source collection of beautiul icons 
 
 #### Fonts
  * [Google Fonts](https://www.google.com/fonts) - probably the most popular place to find fonts
