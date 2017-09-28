@@ -27,7 +27,7 @@ Inspiration
  * [OnePageLove](https://onepagelove.com/) - Great designs for one page websites
  * [CSS Design Awards](http://www.cssdesignawards.com/) - beautiful site in and of itself. this site contains a list of award-worthy designs as well as a site-of-the-day.
  * [Dribble](https://dribbble.com/) - a place for designers to show off their work
-
+ *  [CSS Awards](https://www.cssawards.net/) - another showcase of reviewed website designs
 
 #### Code Snippets
  * [CodePen](http://codepen.io/) - playground for inspiration and snippets
